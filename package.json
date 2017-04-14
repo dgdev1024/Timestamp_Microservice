@@ -1,0 +1,28 @@
+{
+  "name": "timestamp_microservice",
+  "version": "1.0.0",
+  "description": "Generates a natural date and UNIX timestamp from a given string.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgdev1024/Timestamp_Microservice.git"
+  },
+  "keywords": [
+    "timestamp",
+    "microservice",
+    "freecodecamp"
+  ],
+  "author": "Dennis Griffin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgdev1024/Timestamp_Microservice/issues"
+  },
+  "homepage": "https://github.com/dgdev1024/Timestamp_Microservice#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
